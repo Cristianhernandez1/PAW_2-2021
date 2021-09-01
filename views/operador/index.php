@@ -16,7 +16,6 @@
     <title>Operador</title>
 </head>
 <body>
-
-    <h6><b>Bienvenido/a: <?php echo $user; ?> </b></h6>
+    <h3><b>Bienvenido/a: <?php echo $user; ?> </b></h3>
 </body>
 </html>

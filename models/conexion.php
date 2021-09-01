@@ -6,15 +6,15 @@
         {
             if(strtoupper(substr(PHP_OS,0,3)) == 'WIN' )
             {
-                $user = 'root';
-                $pass = 'Cristian';
+                $user = 'poo';
+                $pass = 'poo';
                 $host = 'localhost';
                 $bd = 'paw';
             }
             else
             {
-                $user = 'root';
-                $pass = 'Cristian';
+                $user = 'poo';
+                $pass = 'poo';
                 $host = 'localhost';
                 $bd = 'paw';
             }
